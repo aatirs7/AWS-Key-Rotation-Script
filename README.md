@@ -36,14 +36,16 @@ Feel free to contribute to this project by submitting pull requests with new fea
 
 # Authors
 
-Aatir Siddiqui
+* Aatir Siddiqui
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+* This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # Acknowledgments
 
-AWS IAM service and boto3 library
-Disclaimer
+* AWS IAM service and boto3 library
+* 
+# Disclaimer
+
 Please be sure to thoroughly test and review this script before deploying it to a production environment. This script is provided as is with no guarantee or warranty.
